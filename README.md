@@ -1,12 +1,4 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/158987864?v=4"  />
-</div>
 
-###
-
-<h2 align="center">Nadeko</h2>
-
-###
 
 <h3 align="left">🛠 Language</h3>
 
