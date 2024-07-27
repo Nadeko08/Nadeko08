@@ -1,4 +1,1 @@
-<video autoplay muted loop playsinline>
-  <source src="https://youtu.be/rEoLsA_2zBU?list=TLPQMjcwNzIwMjS1IVK5G0fetA" type="video/mp4">
-  Ваш браузер не поддерживает тег видео.
-</video>
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/dQw4w9WgXcQ)
