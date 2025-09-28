@@ -1,4 +1,4 @@
-# 💻 Tech Stacks:
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="12" />
